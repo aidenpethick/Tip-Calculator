@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.title {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+.titleSub {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+
+.calculator {
+    text-align: center;
+}
+
+#answer {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+#copyright {
+    text-align: left;
+    position: fixed;
+    bottom: 0;
+}
